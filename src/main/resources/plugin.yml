@@ -1,0 +1,3 @@
+name: Encryption
+version: '${project.version}'
+main: dev.asmed.encryption.Encryption
